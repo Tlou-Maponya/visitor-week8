@@ -11,7 +11,7 @@ public class MyTime {
     public MyTime(){}
 
     /**
-     * constructor that has three integer arguments (parameters)
+     * constructor that has 2 integer arguments (parameters)
      * @param hh
      * @param mm
      */
